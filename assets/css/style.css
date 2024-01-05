@@ -50,11 +50,13 @@ body {
     transition: all 0.2s;
 }
 
-.btn:hover {
+.btn:hover:not([disabled]) {
     background: #FFF6A8;
     color: #FFF;
 }
-
+.btn:disabled{
+    cursor: no-drop;
+}
 #nxt-btn{
     background: #FFF6A8;
     color: #FFF;
@@ -66,4 +68,11 @@ body {
     border-radius: 2px;
     cursor: pointer;
     display: none;
+}
+
+.correct {
+    background: #00E66E;
+}
+.incorrect {
+    background:#E50101;
 }
