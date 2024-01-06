@@ -6,7 +6,7 @@ Video Game Trivia
 
 ## **Site Overview**
 
-I've decided to create my trivia quiz called "Video Game!" because Gaming is my passion and also my hobby since my childhood. 
+I've decided to create my trivia quiz called "Video Game" because Gaming is my passion and also my hobby since my childhood. 
 
 ## Table of contents
 
@@ -71,7 +71,7 @@ I've decided to choose 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'L
 
 #### *features
 ​
-I have created 7 questions where users have to answer correctly. There is a 'Play Again?' button to ask them if they want to do it again
+I have created 7 questions where users have to answer correctly. If they succeed to answer those questions, then they have an option to restart. There is the correct and incorrect answers per question. It will motivate them to answer these questions.
 
 ![Q1](assets/docs/Q1.png)
 ![Q2](assets/docs/Q2.png)
@@ -81,6 +81,8 @@ I have created 7 questions where users have to answer correctly. There is a 'Pla
 ​![Q6](assets/docs/Q6.png)
 ![Q7](assets/docs/Q7.png)
 ![Play_Again](assets/docs/Play_Again.png)
+![Correct_And_Incorrect](assets/docs/Correct_And_Incorrect.png)
+![Score](assets/docs/Score.png)
 
 ## **Future-Enhancements**
 
@@ -99,7 +101,7 @@ Here are these results:-
 
 ## **Bugs**
 
-​When I tested my trivia website, there was a bug that would cause problems for me, so I have managed to fix it with Richard Wells' help with Javascript.
+​When I tested my trivia website, there was a bug that would show the "test" question feature, so I have managed to fix it by holding "CTRL" and click the refresh button at the same time to solve the bug. 
 
 ## **Deployment**
 
