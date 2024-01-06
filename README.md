@@ -64,12 +64,23 @@ All these colours were from Adobe Color. It's in "Content"
 
 ## **Typography**
 ​
+I've decided to choose 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; in Codeanywhere, not Google Font because I feel like this font is my favourite.
 
 ## **Current Features Common to all pages**
 
 
 #### *features
 ​
+I have created 7 questions where users have to answer correctly. There is a 'Play Again?' button to ask them if they want to do it again
+
+![Q1](assets/docs/Q1.png)
+![Q2](assets/docs/Q2.png)
+​![Q3](assets/docs/Q3.png)
+![Q4](assets/docs/Q4.png)
+![Q5](assets/docs/Q5.png)
+​![Q6](assets/docs/Q6.png)
+![Q7](assets/docs/Q7.png)
+![Play_Again](assets/docs/Play_Again.png)
 
 ## **Future-Enhancements**
 ​
@@ -81,9 +92,9 @@ All these colours were from Adobe Color. It's in "Content"
 
 Here are these results:-
 
-![HTML]()
-![CSS]()
-​
+![HTML](assets/docs/W3C_Screenshot.png)
+![CSS](assets/docs/W3C_CSS_Screenshot.png)
+​![JS](assets/docs/JS_Screenshot.png)
 
 ## **Bugs**
 
