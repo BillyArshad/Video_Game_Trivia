@@ -71,7 +71,7 @@ I've decided to choose 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'L
 
 #### *features
 ​
-I have created 7 questions where users have to answer correctly. If they succeed to answer those questions, then they have an option to restart. There is the correct and incorrect answers per question. However, if they choose the incorrect answer, then they will receive the score at the end of the trivia quiz. It will motivate them to answer these questions correctly.
+I have created 7 questions where users have to answer correctly. There is the correct and incorrect answers per question. However, if they choose the incorrect answer, then they will see the correct answer being revealed. It will motivate them to answer these questions correctly again by clicking the "Play Again?" after the latest score.
 
 ![Q1](assets/docs/Q1.png)
 ![Q2](assets/docs/Q2.png)
