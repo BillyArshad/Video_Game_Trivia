@@ -20,7 +20,7 @@ body {
 
 .trivia h1 {
     font-size: 15px;
-    color:#000000;
+    color: #000000;
     font-weight: 250;
     border-bottom: 2px solid #333;
     padding-bottom: 20px;
@@ -51,14 +51,16 @@ body {
 }
 
 .btn:hover:not([disabled]) {
-    background: #FFF6A8;
+    background: #000000;
     color: #FFF;
 }
-.btn:disabled{
+
+.btn:disabled {
     cursor: no-drop;
 }
-#nxt-btn{
-    background: #FFF6A8;
+
+#nxt-btn {
+    background: #000000;
     color: #FFF;
     font-weight: 450;
     width: 100px;
@@ -73,8 +75,9 @@ body {
 .correct {
     background: #00E66E;
 }
+
 .incorrect {
-    background:#E50101;
+    background: #E50101;
 }
 
 @media screen and (max-width: 930px) {

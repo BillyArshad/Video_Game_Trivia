@@ -1,39 +1,113 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# **Site Title**
 
-Welcome,
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+![Screenshot]()
 
-## Codeanywhere Reminders
+## **Site Overview**
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
-`python3 -m http.server`
+## Table of contents
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- [**Site Title**](#site-title)
+  - [**Site Overview**](#site-overview)
+  - [Table of contents](#table-of-contents)
+  - [**Planning stage**](#planning-stage)
+    - [**Target Audiences:**](#target-audiences)
+    - [**User Stories:**](#user-stories)
+    - [**Site Aims:**](#site-aims)
+    - [**Color Scheme:**](#color-scheme)
+  - [**Typography**](#typography)
+  - [**Current Features Common to all pages**](#current-features-common-to-all-pages)
+      - [\*features](#features)
+  - [**Future-Enhancements**](#future-enhancements)
+  - [**Testing Phase**](#testing-phase)
+  - [**Bugs**](#bugs)
+  - [**Deployment**](#deployment)
+  - [**Tech**](#tech)
+  - [**Credits**](#credits)
+    - [**Honorable mentions**](#honorable-mentions)
+    - [**Content:**](#content)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## **Planning stage**
 
-`http_server`
+### **Target Audiences:**
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### **User Stories:**
 
-To log into the Heroku toolbelt CLI:
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+​
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### **Site Aims:**
 
----
 
-Happy coding!
+​
+
+### **Color Scheme:**
+
+​
+I have decided to choose colours for my trivia page design:
+​
+
+## **Typography**
+​
+
+## **Current Features Common to all pages**
+
+
+#### *features
+​
+
+## **Future-Enhancements**
+​
+
+## **Testing Phase**
+
+​
+- Validators - I used two W3 websites to test HTML and CSS on my website.
+
+Here are these results:-
+
+![HTML]()
+![CSS]()
+​
+
+## **Bugs**
+
+​
+
+## **Deployment**
+
+I deployed the page on GitHub pages via the following procedure: -
+​
+
+1. From my Video Game Trivia project [repository](https://github.com/BillyArshad/Lytham_History_PP1), go to the **Settings** tab.
+2. From the left-hand menu, select the **Pages** tab.
+3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
+4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
+​
+You can find the live site via the following URL - [live webpage]()
+
+***
+​
+
+## **Tech**
+
+- HTML
+- CSS
+- Javascript
+​
+
+## **Credits**
+
+### **Honorable mentions**
+
+​
+Richard Wells (My mentor) who helped me with my second project. 
+​
+
+### **Content:**
+
+​
