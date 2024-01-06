@@ -34,16 +34,17 @@ I've decided to create my trivia quiz called "Video Game!" because Gaming is my 
 
 ### **Target Audiences:**
 
-
+Users want to test their knowledges on gaming. 
 
 ### **User Stories:**
 
-
+I want to see these buttons clearly.
+I want to answer those interesting questions.
 ​
 
 ### **Site Aims:**
 
-
+My website is aimed to encourage them to learn more about gaming.
 ​
 
 ### **Color Scheme:**
@@ -51,6 +52,15 @@ I've decided to create my trivia quiz called "Video Game!" because Gaming is my 
 ​
 I have decided to choose colours for my trivia page design:
 ​
+#FC039A
+#fff
+#000000
+#333
+#222
+#00E66E
+#E50101
+
+All these colours were from Adobe Color. It's in "Content"
 
 ## **Typography**
 ​
@@ -67,7 +77,7 @@ I have decided to choose colours for my trivia page design:
 ## **Testing Phase**
 
 ​
-- Validators - I used two W3 websites to test HTML and CSS on my website.
+- Validators - I used three websites to test HTML, CSS and JS on my website.
 
 Here are these results:-
 
@@ -84,7 +94,7 @@ Here are these results:-
 I deployed the page on GitHub pages via the following procedure: -
 ​
 
-1. From my Video Game Trivia project [repository](https://github.com/BillyArshad/Lytham_History_PP1), go to the **Settings** tab.
+1. From my Video Game Trivia project [repository](), go to the **Settings** tab.
 2. From the left-hand menu, select the **Pages** tab.
 3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
@@ -111,4 +121,5 @@ Richard Wells (My mentor) who helped me with my second project.
 
 ### **Content:**
 
-​
+<https://color.adobe.com/create/color-wheel​> - Adobe Color
+https://www.youtube.com/watch?v=PBcqGxrr9g8 - GreatStack for the quiz game with Javascript
