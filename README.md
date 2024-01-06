@@ -2,7 +2,7 @@
 
 Video Game Trivia
 
-![Screenshot]()
+![Screenshot](assets/docs/Devices_Screenshot.png)
 
 ## **Site Overview**
 
@@ -108,12 +108,12 @@ Here are these results:-
 I deployed the page on GitHub pages via the following procedure: -
 ​
 
-1. From my Video Game Trivia project [repository](), go to the **Settings** tab.
+1. From my Video Game Trivia project [repository](https://github.com/BillyArshad/Video_Game_Trivia_PP2), go to the **Settings** tab.
 2. From the left-hand menu, select the **Pages** tab.
 3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
 ​
-You can find the live site via the following URL - [live webpage]()
+You can find the live site via the following URL - [live webpage](https://billyarshad.github.io/Video_Game_Trivia_PP2/)
 
 ***
 ​
@@ -136,4 +136,4 @@ Richard Wells (My mentor) who helped me with my second project.
 ### **Content:**
 
 <https://color.adobe.com/create/color-wheel​> - Adobe Color
-https://www.youtube.com/watch?v=PBcqGxrr9g8 - GreatStack for the quiz game with Javascript
+https://www.youtube.com/watch?v=PBcqGxrr9g8 - GreatStack for the quiz game with Javascript, but I have managed to tweak those codes a little by adding these questions and change the colors with Richard Wells' help.
