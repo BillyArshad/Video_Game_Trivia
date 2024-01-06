@@ -83,7 +83,8 @@ I have created 7 questions where users have to answer correctly. There is a 'Pla
 ![Play_Again](assets/docs/Play_Again.png)
 
 ## **Future-Enhancements**
-​
+
+I would like to add new questions and also create the timer to encourage users to answer before it's too late.​
 
 ## **Testing Phase**
 
@@ -98,7 +99,7 @@ Here are these results:-
 
 ## **Bugs**
 
-​
+​When I tested my trivia website, there was a bug that would cause problems for me, so I have managed to fix it with Richard Wells' help with Javascript.
 
 ## **Deployment**
 
