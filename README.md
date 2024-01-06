@@ -1,11 +1,12 @@
 # **Site Title**
 
-
+Video Game Trivia
 
 ![Screenshot]()
 
 ## **Site Overview**
 
+I've decided to create my trivia quiz called "Video Game!" because Gaming is my passion and also my hobby since my childhood. 
 
 ## Table of contents
 
