@@ -136,4 +136,4 @@ Richard Wells (My mentor) who helped me with my second project.
 ### **Content:**
 
 <https://color.adobe.com/create/color-wheel​> - Adobe Color
-https://www.youtube.com/watch?v=PBcqGxrr9g8 - GreatStack for the quiz game with Javascript, but I have managed to tweak those codes a little by adding these questions and change the colors with Richard Wells' help.
+https://www.youtube.com/watch?v=PBcqGxrr9g8 - GreatStack for the quiz game with Javascript, but I have managed to tweak those codes a little with Richard Wells' help.
